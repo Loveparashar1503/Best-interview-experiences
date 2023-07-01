@@ -1,0 +1,33 @@
+Resource from GFG:
+
+By SapnaKy55
+
+Hope everyone’s doing well. Since internship and placement season is going to start soon, Here I am going to share my interview experience with Amazon that I sat for at the start of my third year.
+
+I am a prefinal year student, pursuing B.Tech in Electronics and Communication Engineering from Dr. B. R. Ambedkar National Institute of Technology Jalandhar.
+
+Amazon was one of the companies which was invited to our campus in July 2022 for providing two months summer internship to third-year students. Three rounds of selections were conducted which are as follows:
+
+1. Resume Selection
+
+It was a resume submission and selection round. Students were asked to submit their resumes and basic details in google forms based on which students were selected for the online assessment test.
+
+2. Online Assessment
+
+Online Assessment was divided into two parts.
+
+Two Coding questions
+Behavioral questions
+One hour time was given to attempt the coding questions. Each question was 100 marks. Coding questions were based on a string and were of medium-level difficulty. I was able to complete one question. The solution I coded for the second question passed only a few test cases. Being not so pro in coding, I took somewhat more time and hence fall short of time to optimize my second solution. I don’t clearly remember the questions, very sorry for that.
+
+After the coding questions, 30 minutes were given to attempt behavioral questions.
+
+3. Technical/Coding interview
+
+The interview was conducted in August 2022. I was selected for the Interview round. The interview lasted for about an hour. My interviewer was very calm and helpful. Since it was the first time that I sat for an interview, I was really very nervous. But the way he talked and comforted me made me relaxed. So my interview started. The interviewer first introduced himself telling all about his education and work profile and his achievements in his working career. He then asked me to introduce myself. After done with the introduction part, He assigned me a question. The question was based on a string. He first explained the question in very detail and after that asked me the approach to solve the question. I was provided with a simple notepad kind of editor (not the code editors like hackerrank or GFG or the ones similar to the coding platform ) where I was required to explain my approach and write the code. I hadn’t solved or seen that question previously. So I took a little more time to move from a naive to an optimized solution(couldn’t reach the best solution though). The interviewer also helped in between by suggesting some changes in my approach. I wrote the code for the same.
+
+I wasn’t selected in this round. It was a little sad to know but alongside it was a good and satisfying experience as well. Since it was my first time giving an interview, it was really very panicky but exciting as well at the same time. Overall, it was one of the best experiences of 2022 for me.
+
+So this was all about my interview experience with Amazon. Hope this may help the students who are going to or are willing to sit for their interviews.
+
+ALL THE BEST
