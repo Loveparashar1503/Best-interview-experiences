@@ -1,0 +1,25 @@
+I have applied for 6 month SDE internship through Amazon WOW 2022. It consists of 3 rounds. 2 online assessments and one interview round. We attended the interview offline at the Hyderabad office but if you don’t want to visit the office there was an option of virtual interview also.
+
+Round1 : Online Assessment Round1
+This round consists of a total of 9 sections: 8 MCQ sections (5 questions each) and one coding question with a time limit of 1.5 hour
+
+The sections include:
+
+CS Fundamentals – OS, DBMS, CN, OOPs
+Software Engineering, Software Testing
+DataStructures, Pseudocodes
+one coding question
+The coding question was easy to medium level which does not involve much data structure after clearing this round we had another assessment from August 11 – August 16.
+
+
+Round2: Online Assessment Round2
+This round consists of two coding questions to be solved within 90 Minutes and the level of the questions will be medium.
+
+Problem1 – https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/ a slight variation to this problem
+
+Problem2 – https://leetcode.com/discuss/interview-question/3113182/AMAZON-OA-or-SDE-INTERN-2023
+
+After clearing the assessment we got emails for an interview on Sept 4.
+
+Round3: Interview Round
+My interview went for about 1 and a half hours and the interviewer was very friendly. She started the interview first with herself intro and she asked my self-intro after the self-intro. I was given three coding questions. The first question was purely about problem-solving. and the second question is a standard graph question – https://www.geeksforgeeks.org/find-the-number-of-islands-using-dfs/ and the third question was on 1D DP which is also of medium level. So all three questions I started with brute force and then an optimized approach and after 2 days I got the selection mail from Amazon.
